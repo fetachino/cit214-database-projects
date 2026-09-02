@@ -2,6 +2,10 @@
 
 SQL coursework demonstrating relational schema design, normalization, constraints, data loading, and query development.
 
+![Representative relational model](docs/database-relationship-map.svg)
+
+The diagram summarizes the entity-and-relationship patterns repeated across the assignments. Each SQL file remains self-contained so the schemas can be reviewed independently.
+
 ## Projects
 
 | File | Demonstrates |
@@ -20,6 +24,10 @@ SQL coursework demonstrating relational schema design, normalization, constraint
 - DDL and DML
 - Primary and foreign-key constraints
 - Joins, aggregation, filtering, and reporting queries
+
+## Visual review
+
+The relationship map is a static, repository-generated visual rather than a screenshot of a database client. It keeps the README readable while the SQL files provide the authoritative implementation.
 
 ## Running the scripts
 
