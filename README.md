@@ -10,11 +10,11 @@ The diagram summarizes the entity-and-relationship patterns repeated across the 
 
 | File | Demonstrates |
 | --- | --- |
-| [`assignment-2-apartment-rental.sql`](sql/assignment-2-apartment-rental.sql) | Multi-table apartment-rental schema, primary/foreign keys, and relational queries |
-| [`colonial-adventure-tours.sql`](sql/colonial-adventure-tours.sql) | Adventure-tour data model, inserts, joins, and reporting queries |
-| [`library-database-final-project.sql`](sql/library-database-final-project.sql) | Library publishers, branches, books, borrowers, and lending relationships |
+| [Apartment Rental](projects/apartment-rental/) | Multi-table apartment-rental schema, primary/foreign keys, and relational queries |
+| [Colonial Adventure Tours](projects/colonial-adventure-tours/) | Adventure-tour data model, inserts, joins, and reporting queries |
+| [Library Database Final Project](projects/library-database/) | Library publishers, branches, books, borrowers, and lending relationships |
 | [`consulting-database.sql`](sql/consulting-database.sql) | Consultant/client/project schema and sample business data |
-| [`staywell-property-management.sql`](sql/staywell-property-management.sql) | Property-management entities, leases, owners, and maintenance data |
+| [StayWell Property Management](projects/staywell-property-management/) | Property-management entities, leases, owners, and maintenance data |
 | [`mysql-premiere-exercises.sql`](sql/mysql-premiere-exercises.sql) | Query practice against a small retail schema |
 
 ## Technology
