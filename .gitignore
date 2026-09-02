@@ -1,0 +1,5 @@
+# Local database exports and editor files
+*.dump
+*.bak
+.idea/
+.vscode/
