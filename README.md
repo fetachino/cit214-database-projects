@@ -44,3 +44,5 @@ Completed for CIT 21400, Introduction to Data Management. The repository is orga
 ## About
 
 Built by Ahmed Balde as part of a broader portfolio in software engineering, data, cybersecurity, and GIS.
+
+Additional recovered design notes: [consulting database homework](projects/consulting-database/homework-5.md) and [IndyFringe homework](projects/consulting-database/homework-6-indyfringe.md).
